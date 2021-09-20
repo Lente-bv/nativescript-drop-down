@@ -1,0 +1,7 @@
+{
+    "uses": [
+        "android.widget:AdapterView*",
+        "android.widget:Spinner*",
+        "android.widget:BaseAdapter"
+    ]
+}
